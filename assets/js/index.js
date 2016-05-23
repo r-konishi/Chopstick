@@ -138,7 +138,7 @@
 		$("#search-field").ghostHunter({
 			results : "#search-results",
 			zeroResultsInfo : true,
-			info_template   : "<p class='sr-heading'>Number of posts found: {{amount}}</p>",
+			info_template   : "<p class='sr-heading'>見つかった記事: {{amount}}</p>",
 			result_template : "<p><a href='{{link}}'> {{title}}</a></p>",
 			onKeyUp : true,
 		});
