@@ -282,8 +282,8 @@ cite {
 }
 
 .btn-primary:hover {
-    background-color: #e92c0c;
-    border: solid 1px #e92c0c;
+    background-color: #0097a2;
+    border: solid 1px #0097a2;
 }
 
 /* ------- Links ------- */
@@ -305,7 +305,7 @@ a:visited {
 }
 
 a:hover{
-	color:#e92c0c;
+	color:#0097a2;
 	text-decoration:none;
 }
 
@@ -360,7 +360,7 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-	color:#e92c0c;
+	color:#0097a2;
 }
 
 .tags,
@@ -376,7 +376,7 @@ h6 a:hover {
 }
 
 .tags a:hover {
-	color:#e92c0c;
+	color:#0097a2;
 }
 
 .meta-info span {
